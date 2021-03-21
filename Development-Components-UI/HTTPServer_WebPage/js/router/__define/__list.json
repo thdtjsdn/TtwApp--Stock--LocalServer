@@ -1,0 +1,6 @@
+[
+	"000_define_global.router",
+	"100_define_global.router.STATIC",
+	"101_define_global.router.STATIC.CONFIG",
+	"101_define_global.router.STATIC.CONST"
+]
